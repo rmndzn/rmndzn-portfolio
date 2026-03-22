@@ -38,6 +38,18 @@ const projects = [
     color: '#00b4ff',
     icon: '🎮',
   },
+  {
+    id: 4,
+    title: 'AnimanDex',
+    description: 'A modern anime database website with user accounts, anime tracking, and a rank progression system. Built with a dark orange glassmorphism aesthetic and powered by live data from the Jikan API.',
+    tech: ['REACT.JS', 'SUPABASE', 'JIKAN API'],
+    category: 'Full-Stack',
+    demo: 'https://animandexv2.vercel.app',
+    github: 'https://github.com/rmndzn/animandexv2',
+    featured: false,
+    color: '#00b4ff',
+    icon: '🎮',
+  },
 ];
 
 const categories = ['All', 'Full-Stack', 'Frontend', 'Backend', 'AI / SaaS'];
